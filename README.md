@@ -1,0 +1,2 @@
+# DER
+br modelo exercicios
